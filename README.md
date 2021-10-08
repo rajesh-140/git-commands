@@ -27,7 +27,7 @@
 
 >display: **flex**
 
->justify-cotent: **flex-start** | **Center** | **flex-end**| **space-arround** | **space-between** | **space-evenly**
+>justify-content: **flex-start** | **Center** | **flex-end**| **space-arround** | **space-between** | **space-evenly**
 
 >align-items:**flex-start** | **Center** | **flex-end**| **base-line** | **stretch(defalt)**
 

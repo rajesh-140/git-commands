@@ -64,12 +64,22 @@
 <u>Fixed</u> <ol>-->position relative to view port</ol>
 <ol>-->no gap inits normal place</ol>
 <ol>-->it comes out of normal flow</ol>
-<u>absolute</u><ol>-->is position relative to the nearest position ancestor<ol>
+<u>absolute</u><ol>-->is position relative to the nearest position ancestor</ol>
+<hr>
+
+# css selectores
+
+<li>element selector</li>
+<li>Id selector (#)</li>
+<li>Class selector (.)</li>
+<li>Universal selector (*) </li>
+<li>Grouping selector (h1,h2,)</li>
 <hr>
 
 # css combinators
 
 ## There are four different combinators
+
 <li>decendant selector (space)</li>
 <li>child selector (>)</li>
 <li>adjacent sibling selector (+)</li>

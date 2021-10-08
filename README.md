@@ -2,16 +2,23 @@
 >## …or create a new repository on the command line
 
 >echo "# javascripts" >> README.md
+
 >git init
+
 >git clone url
+
 >git add README.md
+
 >git commit -m "first commit"
+
 >git branch -M main
+
 >git push -u origin main
 
 ## …or push an existing repository from the command line
 
 >git branch -M main
+
 >git push -u origin main
 
 <hr>

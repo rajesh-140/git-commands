@@ -43,4 +43,28 @@
 
 >order: -2, -1, 0, 1, 2...
 
+# css position property
+
+## There are five different position values
+
+<li>static</li>
+<li>Relative</li>
+<li>fixed</li>
+<li>absolute</li>
+<li>sticky</li>
+
+
+<u>Static</u>  -->no effect it is a defalt
+
+<u>Relative</u> <ol>-->position relative to its normal position</ol>
+<ol>-->leaves the gap init normal place </ol>
+<ol>-->it comes out of normal flow</ol>
+
+<u>Fixed</u> <ol>-->position relative to view port</ol>
+<ol>-->no gap inits normal place</ol>
+<ol>-->it comes out of normal flow</ol>
+<u>absolute</u><ol>-->is position relative to the nearest position ancestor<ol>
+            
+            
+
  

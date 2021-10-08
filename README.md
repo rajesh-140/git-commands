@@ -42,6 +42,7 @@
 >flex-flow: **flex-direction** |**flex-wrap** |
 
 >order: -2, -1, 0, 1, 2...
+<hr>
 
 # css position property
 
@@ -64,6 +65,16 @@
 <ol>-->no gap inits normal place</ol>
 <ol>-->it comes out of normal flow</ol>
 <u>absolute</u><ol>-->is position relative to the nearest position ancestor<ol>
+<hr>
+
+# css combinators
+
+## There are four different combinators
+<li>decendant selector (space)</li>
+<li>child selector (>)</li>
+<li>adjacent sibling selector (+)</li>
+<li>general sibling selector (~)</li>
+
             
             
 

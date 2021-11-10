@@ -85,6 +85,20 @@
 <li>adjacent sibling selector (+)</li>
 <li>general sibling selector (~)</li>
 
+<hr>
+
+# JavaScript Dom
+## Dom (Document object modeal) : 3 types
+1) Write( );
+2) getElementById( );
+3) getElementsByName( );
+
+## Change HTML elements : 3 types
+1) changing Content
+2) changing Value
+3) changing style
+
+
             
             
 
